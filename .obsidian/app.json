@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "promptDelete": false,
   "newFileFolderPath": "content/posts",
-  "attachmentFolderPath": "static"
+  "attachmentFolderPath": "static",
+  "useMarkdownLinks": true
 }
