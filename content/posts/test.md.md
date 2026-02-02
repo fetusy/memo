@@ -5,4 +5,4 @@ draft: false
 ---
 Hello
 Haha
-[IMG_2001](IMG_2001.jpeg)
+[IMG_2001](static/IMG_2001.jpeg)
