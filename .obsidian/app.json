@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "promptDelete": false,
-  "newFileFolderPath": "static"
+  "newFileFolderPath": "content/posts",
+  "attachmentFolderPath": "static"
 }

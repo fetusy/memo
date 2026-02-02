@@ -1,5 +1,5 @@
 ---
 title: "{{title}}"
-date: {{date}} {{time}}
+date: {{date}}T{{time}}:00+09:00
 draft: false
 ---
