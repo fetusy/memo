@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contents/posts/test.md.md",
+                "file": "content/posts/test.md.md",
                 "mode": "source",
                 "source": false
               },
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "contents/posts/test.md.md",
+            "file": "content/posts/test.md.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -190,12 +190,12 @@
     "static",
     "Templates/Hugo-Post.md",
     "contents/posts/Untitled.md",
-    "contents/posts/test.md.md",
+    "content/posts/test.md.md",
     "Templates",
     "Untitled 1.md",
     "README.md",
-    "contents/posts",
-    "contents",
+    "content/posts",
+    "content",
     "Untitled.md"
   ]
 }
