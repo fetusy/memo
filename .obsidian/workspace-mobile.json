@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Notepadplusplus.md",
+                "file": "content/search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notepadplusplus"
+              "title": "search"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/posts/Notepadplusplus.md",
+            "file": "content/search.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,8 +186,10 @@
   },
   "active": "873d7b56b2b82a55",
   "lastOpenFiles": [
-    "static/IMG_2007.jpeg",
+    "content/archives.md",
+    "content/search.md",
     "content/posts/Notepadplusplus.md",
+    "static/IMG_2007.jpeg",
     "static/favicon.ico",
     "static/Untitled.canvas",
     "content/posts/test.md.md",
