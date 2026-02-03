@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/test.md.md",
+                "file": "content/posts/Notepadplusplus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test.md"
+              "title": "Notepadplusplus"
             }
           }
         ],
@@ -186,13 +186,17 @@
   },
   "active": "873d7b56b2b82a55",
   "lastOpenFiles": [
+    "content/posts/test.md.md",
+    "/content/posts/Notepadplusplus.md",
+    "content/posts/Notepadplusplus.md",
+    "/content/posts",
+    "/content",
     "static/IMG_2007.jpeg",
     "static/IMG_2159.png",
     "static/IMG_2054.jpeg",
     "static/IMG_2001.jpeg",
     "IMG_2005.jpeg",
     "Templates/Hugo-Post.md",
-    "content/posts/test.md.md",
     "static",
     "contents/posts/Untitled.md",
     "Templates",
