@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/posts/test.md.md",
+            "file": "content/posts/Notepadplusplus.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,12 +186,14 @@
   },
   "active": "873d7b56b2b82a55",
   "lastOpenFiles": [
-    "content/posts/test.md.md",
+    "static/IMG_2007.jpeg",
     "content/posts/Notepadplusplus.md",
+    "static/favicon.ico",
+    "static/Untitled.canvas",
+    "content/posts/test.md.md",
     "/content/posts/Notepadplusplus.md",
     "/content/posts",
     "/content",
-    "static/IMG_2007.jpeg",
     "static/IMG_2159.png",
     "static/IMG_2054.jpeg",
     "static/IMG_2001.jpeg",
