@@ -2,7 +2,10 @@
 title: Notepad++ 해킹
 date: 2026-02-03T10:30:00+09:00
 draft: false
+tags:
+  - 보안
 ---
+![](../../static/Pasted%20image%2020260204145556.png)
 프로그램 내의 코드 오류로 인한 버그가 아닌, 업데이트 서버 자체가 해킹당해 가짜 업데이트를 유포한 공급망 공격(Supply Chain Attack) 입니다.
 
 2026년 2월 2일, Notepad++ 개발자는 [공식 사이트](https://notepad-plus-plus.org/news/hijacked-incident-info-update/) 를 통해 2025년 6월부터 업데이트 배포 서버가 해커에게 장악되어 있었다고 밝혔습니다.
