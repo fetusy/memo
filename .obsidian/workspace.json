@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Notepadplusplus.md",
+                "file": "content/posts/test.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notepadplusplus"
+              "title": "test.md"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Notepadplusplus.md",
+                "file": "content/posts/test.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notepadplusplus"
+              "title": "Backlinks for test.md"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/Notepadplusplus.md",
+                "file": "content/posts/test.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notepadplusplus"
+              "title": "Outgoing links from test.md"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Notepadplusplus.md",
+                "file": "content/posts/test.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notepadplusplus"
+              "title": "Outline of test.md"
             }
           }
         ]
@@ -186,6 +186,8 @@
   },
   "active": "8405a750979d785b",
   "lastOpenFiles": [
+    "static/Pasted image 20260204145839.png",
+    "content/posts/Notepadplusplus.md",
     "static/Pasted image 20260204145556.png"
   ]
 }

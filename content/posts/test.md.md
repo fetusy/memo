@@ -5,4 +5,7 @@ draft: false
 tags:
   - test
 ---
-![](../../static/IMG_2007.jpeg)안녕하세요
+![](../../static/Pasted%20image%2020260204145839.png)
+
+[microLXC](https://microlxc.net)
+[Hugo](https://gohugo.io/)
