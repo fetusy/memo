@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1deb2d17daa18df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/하나님이 곁에 계셔도 몰랐던 이들에게.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "하나님이 곁에 계셔도 몰랐던 이들에게"
-            }
-          },
-          {
             "id": "873d7b56b2b82a55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Notepadplusplus.md",
-                "mode": "preview",
+                "file": "content/posts/2025-christmas-blessing.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notepadplusplus"
+              "title": "2025-christmas-blessing"
             },
             "group": "04e8c2fec5a77298"
           }
@@ -228,22 +214,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1deb2d17daa18df",
+  "active": "873d7b56b2b82a55",
   "lastOpenFiles": [
-    "content/posts/test.md.md",
     "content/posts/하나님이 곁에 계셔도 몰랐던 이들에게.md",
-    "Templates/Hugo-Post.md",
-    "content/search.md",
-    "content/archives.md",
-    "content/posts/Notepadplusplus.md",
+    "content/content/qt.md",
+    "content/content/7b0-13-9e1.md",
+    "content/content/0810.md",
+    "content/content/8a0-c4-0f8.md",
+    "content/content/840-83-1c3.md",
+    "content/content/soli-deo-gloria.md",
+    "content/content/501-95-211.md",
+    "content/content/b7f-9a-f69.md",
+    "content/content/f3a-ac-de5.md",
+    "content/content/sola-gratia.md",
+    "content/content/bible-notes.md",
+    "content/content/7f5-30-afb.md",
+    "content/content/409-de-e07.md",
+    "content/content/085-5e-758.md",
+    "content/content/ecc-fa-4c8.md",
+    "content/content/627-f8-89b.md",
+    "content/content/ad5-c6-259.md",
+    "content/content/sola-scriptura.md",
+    "content/content/2025-christmas-blessing.md",
+    "content/content/f36-9e-ebe.md",
+    "content/content/df0-10-325.md",
+    "content/content/42e-a8-7ad.md",
+    "content/content/efa-a8-c7e.md",
+    "content/content/4dc-9a-ac0.md",
+    "content/content/2e5-9c-103.md",
+    "content/content",
     "static/Pasted image 20260204145839.png",
     "/static/favicon.ico",
     "/static/Pasted image 20260204145839.png",
     "/static/Pasted image 20260204145556.png",
     "static/Pasted image 20260204145556.png",
     "/static",
-    "/content/posts/test.md.md",
-    "/content/posts/Notepadplusplus.md",
     "/content/posts",
     "/content",
     "static/IMG_2007.jpeg",
@@ -254,12 +259,8 @@
     "static/IMG_2001.jpeg",
     "IMG_2005.jpeg",
     "static",
-    "contents/posts/Untitled.md",
     "Templates",
-    "Untitled 1.md",
-    "README.md",
     "content/posts",
-    "content",
-    "Untitled.md"
+    "content"
   ]
 }
