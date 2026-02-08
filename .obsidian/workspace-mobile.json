@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "content/posts/하나님이 곁에 계셔도 몰랐던 이들에게.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "하나님이 곁에 계셔도 몰랐던 이들에게"
             }
           },
           {
@@ -27,16 +27,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/test.md.md",
-                "mode": "source",
+                "file": "content/posts/Notepadplusplus.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test.md"
-            }
+              "title": "Notepadplusplus"
+            },
+            "group": "04e8c2fec5a77298"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "dea77510ccff7d05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5430ca9aab4f7a7d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "content/posts/Notepadplusplus.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.046740458810881,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "04e8c2fec5a77298"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +171,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/posts/test.md.md",
+            "file": "content/posts/하나님이 곁에 계셔도 몰랐던 이들에게.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -184,23 +228,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "873d7b56b2b82a55",
+  "active": "d1deb2d17daa18df",
   "lastOpenFiles": [
+    "content/posts/test.md.md",
+    "content/posts/하나님이 곁에 계셔도 몰랐던 이들에게.md",
+    "Templates/Hugo-Post.md",
     "content/search.md",
     "content/archives.md",
     "content/posts/Notepadplusplus.md",
-    "static/IMG_2007.jpeg",
-    "static/favicon.ico",
-    "static/Untitled.canvas",
-    "content/posts/test.md.md",
+    "static/Pasted image 20260204145839.png",
+    "/static/favicon.ico",
+    "/static/Pasted image 20260204145839.png",
+    "/static/Pasted image 20260204145556.png",
+    "static/Pasted image 20260204145556.png",
+    "/static",
+    "/content/posts/test.md.md",
     "/content/posts/Notepadplusplus.md",
     "/content/posts",
     "/content",
+    "static/IMG_2007.jpeg",
+    "static/favicon.ico",
+    "static/Untitled.canvas",
     "static/IMG_2159.png",
     "static/IMG_2054.jpeg",
     "static/IMG_2001.jpeg",
     "IMG_2005.jpeg",
-    "Templates/Hugo-Post.md",
     "static",
     "contents/posts/Untitled.md",
     "Templates",
