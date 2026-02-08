@@ -14,10 +14,7 @@ draft: false
 
 인생 첫 사역이었는데, 감사하게도 데코팀 팀장으로 불러주셨다!!
 
-<figure style="text-align: center; margin: 40px 0;">
-  <img src="https://i.imgur.com/UM8Dk8A.jpeg" alt="데코팀 사진" style="max-width:100%; height:auto; border:2px solid #ddd; ">
-</figure>
-
+![](../../static/IMG_2322.webp)
 데코 구상을 하며 이리저리 돌아다니다가 예배당 뒷쪽 게시판에 목사님의 롤링 페이퍼를 보게 되었다.  
 그 안에 공통된 문장들이 “목사님께서 사역하시는 모습이 예수님 같으시다” 였다. 
 
@@ -32,25 +29,14 @@ draft: false
 
 
 
-<figure style="text-align: center; margin: 40px 0;">
-  <img src="https://i.imgur.com/nSzD5yj.jpeg" alt="" style="max-width:100%; height:auto;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 10px;">
-  아웃리치: 예수님 마음으로 찾아가 섬기기
-  </figcaption>
-</figure>
-
+![](../../static/IMG_2323.jpeg)
 목사님이 나눠주신 책자에 있던 사진 한 장이 ‘아웃리치’라는 단어를 가장 잘 설명해 주는 것 같았다.
 
 ---
 
 예배당도 꾸몄다!
 
-<figure style="text-align: center; margin: 40px 0;">
-  <img src="https://i.imgur.com/tgKOZgR.jpeg" alt="데코팀 사진" style="max-width:100%; height:auto;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 10px;">
-  반짝반짝
-  </figcaption>
-</figure>
+![](../../static/IMG_2324.jpeg)
 
 ![](https://i.imgur.com/OBKNdf5_d.webp?maxwidth=1520&fidelity=grand)
 
