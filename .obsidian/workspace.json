@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/test.md.md",
+                "file": "content/posts/0810.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test.md"
+              "title": "0810"
             }
           }
         ]
@@ -184,14 +184,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a8830153988e61f",
+  "active": "8405a750979d785b",
   "lastOpenFiles": [
+    "content/posts/2025-christmas-blessing.md",
+    "content/posts/test.md.md",
     "static/favicon.ico",
     "static/favicon 1.ico",
     "content/posts/Notepadplusplus.md",
     "content/archives.md",
     "static/IMG_2007.jpeg",
-    "content/posts/test.md.md",
     "static/Pasted image 20260204145839.png",
     "static/Pasted image 20260204145556.png"
   ]
