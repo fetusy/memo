@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/test.md.md",
+                "file": "content/posts/test1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test.md"
+              "title": "test1"
             }
           }
         ]
@@ -184,15 +184,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a8830153988e61f",
+  "active": "8405a750979d785b",
   "lastOpenFiles": [
+    "Templates/Hugo-Post.md",
+    "content/posts/test1.md",
+    "content/posts/test.md.md",
+    "content/posts/준비가 기회를 만듭니다.md",
+    "content/posts/Notepadplusplus.md",
+    "content/posts/예수님을 따른 사람들 마태.md",
+    "content/posts/최후의 승리를 얻기까지.md",
+    "content/posts/0810.md",
+    "static/IMG_2007.jpeg",
+    "content/posts/넘을 수 없는 장애물을 만났을 때.md",
+    "static/Pasted image 20260204145839.png",
+    "static/Pasted image 20260204145556.png",
+    "static/IMG_2322.webp",
+    "static/IMG_2323.jpeg",
+    "static/IMG_2324.jpeg",
+    "content/posts/2025-christmas-blessing.md",
     "static/favicon.ico",
     "static/favicon 1.ico",
-    "content/posts/Notepadplusplus.md",
-    "content/archives.md",
-    "static/IMG_2007.jpeg",
-    "content/posts/test.md.md",
-    "static/Pasted image 20260204145839.png",
-    "static/Pasted image 20260204145556.png"
+    "content/archives.md"
   ]
 }
