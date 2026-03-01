@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/예수님을 따른 사람들 마태.md",
+                "file": "content/posts/예수님을 따른 사람들, 도마.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "예수님을 따른 사람들 마태"
+              "title": "예수님을 따른 사람들, 도마"
             },
             "group": "04e8c2fec5a77298"
           }
@@ -85,7 +85,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "파일 탐색기"
         }
       },
       {
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/posts/하나님이 곁에 계셔도 몰랐던 이들에게.md",
+            "file": "content/posts/예수님을 따른 사람들, 도마.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "백링크"
         }
       },
       {
@@ -204,19 +204,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "873d7b56b2b82a55",
   "lastOpenFiles": [
     "content/posts/2025-christmas-blessing.md",
+    "content/posts/예수님을 따른 사람들, 도마.md",
     "content/posts/예수님을 따른 사람들 마태.md",
     "content/posts/0810.md",
     "static/IMG_2324.jpeg",
@@ -244,7 +245,6 @@
     "content/content/2025-christmas-blessing.md",
     "content/content/f36-9e-ebe.md",
     "content/content/df0-10-325.md",
-    "content/content/42e-a8-7ad.md",
     "content/content",
     "static/Pasted image 20260204145839.png",
     "/static/favicon.ico",
