@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/test1.md",
+                "file": "content/posts/중독.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test1"
+              "title": "중독"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -174,23 +174,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "8405a750979d785b",
   "lastOpenFiles": [
-    "Templates/Hugo-Post.md",
-    "content/posts/test1.md",
-    "content/posts/test.md.md",
-    "content/posts/준비가 기회를 만듭니다.md",
     "content/posts/Notepadplusplus.md",
+    "content/posts/test.md.md",
+    "content/posts/test1.md",
+    "Templates/Hugo-Post.md",
+    "content/posts/예수님을 따른 사람들, 도마.md",
+    "content/posts/준비가 기회를 만듭니다.md",
     "content/posts/예수님을 따른 사람들 마태.md",
     "content/posts/최후의 승리를 얻기까지.md",
     "content/posts/0810.md",
