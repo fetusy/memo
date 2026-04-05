@@ -94,7 +94,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:주일설교",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -145,7 +145,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "b7cceb70bf591191",
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/posts/예수님을 따른 사람들 다대오 유다.md",
+            "file": "content/posts/죽음을 이긴 사랑.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -216,22 +216,22 @@
   },
   "active": "873d7b56b2b82a55",
   "lastOpenFiles": [
-    "content/posts/대청연합기도회 260403.md",
+    "content/posts/예수님을 따른 사람들 다대오 유다.md",
     "content/posts/죽음을 이긴 사랑.md",
+    "content/posts/예수님을 따른 사람들, 도마.md",
+    "content/posts/대청연합기도회 260403.md",
     "content/posts/참된 마음의 사람.md",
     "content/posts/거짓된 고발, 불의한 판결.md",
     "content/posts/성만찬의 은혜로 이어 가는 믿음의 삶.md",
     "/content/posts/거짓된 고발, 불의한 판결.md",
     "/content/posts",
     "/content",
-    "content/posts/예수님을 따른 사람들 다대오 유다.md",
     "content/posts/주님을 위한 거룩한 낭비.md",
     "/content/posts/주님을 위한 거룩한 낭비.md",
     "/content/posts/성만찬의 은혜로 이어 가는 믿음의 삶.md",
     "/content/posts/사탄의 하수인이 된 어리석은 제자.md",
     "content/posts/사탄의 하수인이 된 어리석은 제자.md",
     "content/posts/하나님이 곁에 계셔도 몰랐던 이들에게.md",
-    "content/posts/예수님을 따른 사람들, 도마.md",
     "content/posts/지옥 판결이 예고된 위선자들.md",
     "content/posts/무제.md",
     "/content/posts/지옥 판결이 예고된 위선자들.md",
