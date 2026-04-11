@@ -1,7 +1,9 @@
 ---
-title: "크리스마스 블레싱 - 정다운교회"
+title: 크리스마스 블레싱 - 정다운교회
 date: 2025-12-23
 draft: false
+aliases:
+  - /2025-christmas-blessing
 ---
 
 <figure style="text-align: center; margin: 40px 0;">

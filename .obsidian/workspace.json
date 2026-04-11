@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/죽음을 이긴 사랑.md",
+                "file": "content/posts/2025-christmas-blessing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "죽음을 이긴 사랑"
+              "title": "2025-christmas-blessing"
             }
           }
         ]
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1e645187b8df190",
+  "active": "9da9daf518ab6277",
   "lastOpenFiles": [
     "content/posts/죽음을 이긴 사랑.md",
     "content/posts/LOD.md",
