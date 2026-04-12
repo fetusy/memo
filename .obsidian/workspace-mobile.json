@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/믿음의 사람은.md",
+                "file": "content/posts/예수님을 따른 사람들 바울.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "믿음의 사람은"
+              "title": "예수님을 따른 사람들 바울"
             },
             "group": "04e8c2fec5a77298"
           }
@@ -81,7 +81,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "byCreatedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -94,7 +94,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "방향",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -145,7 +145,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "b7cceb70bf591191",
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/posts/믿음의 사람은.md",
+            "file": "content/posts/예수님을 따른 사람들 바울.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -216,9 +216,14 @@
   },
   "active": "873d7b56b2b82a55",
   "lastOpenFiles": [
+    "content/posts/하나님이 곁에 계셔도 몰랐던 이들에게.md",
+    "content/posts/예수님을 따른 사람들 바울.md",
+    "content/posts/믿음의 사람은.md",
+    "/content/posts/2025-christmas-blessing.md",
+    "/content/posts",
+    "/content",
     "content/posts/죽음을 이긴 사랑.md",
     "content/archives.md",
-    "content/posts/믿음의 사람은.md",
     "content/posts/순종 해방 거룩 그리고.md",
     "content/posts/LOD.md",
     "content/posts/대청연합기도회 260403.md",
@@ -231,8 +236,6 @@
     "/content/posts/bible-notes.md",
     "/content/posts/QT | 하나님 앞에서 담대한 삶.md",
     "/content/posts/LOD.md",
-    "/content/posts",
-    "/content",
     "content/posts/예수님을 따른 사람들 다대오 유다.md",
     "content/posts/예수님을 따른 사람들, 도마.md",
     "content/posts/참된 마음의 사람.md",
@@ -241,9 +244,6 @@
     "/content/posts/거짓된 고발, 불의한 판결.md",
     "content/posts/주님을 위한 거룩한 낭비.md",
     "/content/posts/주님을 위한 거룩한 낭비.md",
-    "/content/posts/성만찬의 은혜로 이어 가는 믿음의 삶.md",
-    "/content/posts/사탄의 하수인이 된 어리석은 제자.md",
-    "content/posts/사탄의 하수인이 된 어리석은 제자.md",
     "static/IMG_2324.jpeg",
     "static/IMG_2323.jpeg",
     "static/IMG_2322.webp",
