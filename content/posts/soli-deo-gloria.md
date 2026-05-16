@@ -1,7 +1,9 @@
 ---
-title: "Soli Deo Gloria"
+title: Soli Deo Gloria
 date: 2025-05-18
 draft: false
+tags:
+  - HUBUP
 ---
 
 > “말씀이 육신이 되어 우리 가운데 거하시매 우리가 그 영광을 보니 아버지의 독생자의 영광이요 은혜와 진리가 충만하더라”   

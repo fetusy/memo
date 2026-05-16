@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/허무한 인생에 베푸시는 영원한 사랑.md",
+                "file": "content/posts/동행.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "허무한 인생에 베푸시는 영원한 사랑"
+              "title": "동행"
             }
           }
         ]
@@ -89,36 +89,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0285d7e2518584cf",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "content/posts/허무한 인생에 베푸시는 영원한 사랑.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "허무한 인생에 베푸시는 영원한 사랑 의 백링크"
-            }
-          },
-          {
             "id": "fcb2257792754cec",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/허무한 인생에 베푸시는 영원한 사랑.md",
+                "file": "content/posts/동행.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "허무한 인생에 베푸시는 영원한 사랑 의 나가는 링크"
+              "title": "동행 의 나가는 링크"
             }
           },
           {
@@ -169,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,19 +167,22 @@
   },
   "active": "65f65bcf8204c309",
   "lastOpenFiles": [
-    "content/posts/하늘 위의 하늘로.md",
-    "content/posts/하나님, 어떤 사람을 만나 가정을 이루어야 할까요?.md",
-    "content/posts/순수함을 잃어버린 그대에게.md",
-    "content/posts/승리의 깃발.md",
-    "content/posts/선교의 깃발.md",
+    "content/posts/성령의 사람은 사람을 자랑하지 않습니다.md",
+    "content/posts/동행.md",
     "content/posts/sola-gratia.md",
     "content/posts/sola-scriptura.md",
+    "content/posts/soli-deo-gloria.md",
+    "content/posts/하늘 위의 하늘로.md",
+    "content/posts/승리의 깃발.md",
+    "content/posts/허무한 인생에 베푸시는 영원한 사랑.md",
+    "content/posts/순수함을 잃어버린 그대에게.md",
+    "content/posts/하나님, 어떤 사람을 만나 가정을 이루어야 할까요?.md",
+    "content/posts/선교의 깃발.md",
     "content/posts/연약한 자들을 구원하시는 심판자.md",
     "content/posts/예수님을 따른 사람들 마태.md",
     "content/posts/욕심에 끌리는 걸음, 막아서시는 하나님.md",
     "content/posts/예수님을 따른 사람들 다대오 유다.md",
     "content/posts/믿음의 사람은.md",
-    "content/posts/허무한 인생에 베푸시는 영원한 사랑.md",
     "content/posts/죽음을 이긴 사랑.md",
     "content/posts/예수님을 따른 사람들, 도마.md",
     "content/posts/예수님을 따른 사람들 바울.md",
@@ -208,9 +193,6 @@
     "content/posts/대청연합기도회 260403.md",
     "content/posts/성만찬의 은혜로 이어 가는 믿음의 삶.md",
     "content/posts/믿음 소망 사랑.md",
-    "content/posts/한센인 특수 지역 정다운교회의 섬김 사역.md",
-    "content/posts/2025-christmas-blessing.md",
-    "content/posts/QT | 하나님 앞에서 담대한 삶.md",
     "static/IMG_2007.jpeg",
     "static/Pasted image 20260204145839.png",
     "static/Pasted image 20260204145556.png",

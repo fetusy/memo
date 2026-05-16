@@ -1,7 +1,9 @@
 ---
-title: "Sola Gratia"
+title: Sola Gratia
 date: 2025-05-18
 draft: false
+tags:
+  - HUBUP
 ---
 
 2025-05-18 09:46:05  
