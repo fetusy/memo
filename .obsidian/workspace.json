@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/동행.md",
+                "file": "content/posts/무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "동행"
+              "title": "무제"
             }
           }
         ]
@@ -94,12 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/동행.md",
+                "file": "content/posts/무제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "동행 의 나가는 링크"
+              "title": "무제 의 나가는 링크"
             }
           },
           {
@@ -167,8 +167,9 @@
   },
   "active": "65f65bcf8204c309",
   "lastOpenFiles": [
-    "content/posts/성령의 사람은 사람을 자랑하지 않습니다.md",
     "content/posts/동행.md",
+    "content/posts/무제.md",
+    "content/posts/성령의 사람은 사람을 자랑하지 않습니다.md",
     "content/posts/sola-gratia.md",
     "content/posts/sola-scriptura.md",
     "content/posts/soli-deo-gloria.md",
@@ -192,7 +193,6 @@
     "content/posts/주님을 위한 거룩한 낭비.md",
     "content/posts/대청연합기도회 260403.md",
     "content/posts/성만찬의 은혜로 이어 가는 믿음의 삶.md",
-    "content/posts/믿음 소망 사랑.md",
     "static/IMG_2007.jpeg",
     "static/Pasted image 20260204145839.png",
     "static/Pasted image 20260204145556.png",
