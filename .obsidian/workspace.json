@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/하나님, 더 원합니다.md",
+                "file": "content/posts/거짓된 고발, 불의한 판결.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "하나님, 더 원합니다"
+              "title": "거짓된 고발, 불의한 판결"
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -189,44 +189,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "f636cb7085fdf821",
   "lastOpenFiles": [
-    "content/posts/갈망이 있어야 해갈됩니다.md",
-    "content/posts/하나님, 더 원합니다.md",
+    "content/posts/하늘 위의 하늘로.md",
+    "content/posts/순수함을 잃어버린 그대에게.md",
+    "content/posts/십자가를 짊어진다는 것은.md",
+    "content/posts/다시 기대할 수 있을까?.md",
+    "content/posts/성령의 사람은 사람을 자랑하지 않습니다.md",
+    "content/posts/전도.md",
     "content/posts/말씀.md",
     "content/posts/머무름,  제자도의 시작 입니다.md",
+    "content/posts/하나님, 더 원합니다.md",
+    "content/posts/갈망이 있어야 해갈됩니다.md",
+    "content/posts/우리가 살아가야 하는 삶.md",
+    "content/posts/2025-christmas-blessing.md",
     "conflict-files-obsidian-git.md",
     "README.md",
-    "content/posts/전도.md",
     "content/posts/좋은 관계를 위한 분별 있는 사랑.md",
     "content/posts/MAY.md",
     "content/archives.md",
     "content/search.md",
     "content/posts/하나님, 어떤 사람을 만나 가정을 이루어야 할까요?.md",
-    "content/posts/성령의 사람은 사람을 자랑하지 않습니다.md",
     "content/posts/동행.md",
     "content/posts/sola-gratia.md",
     "content/posts/sola-scriptura.md",
     "content/posts/soli-deo-gloria.md",
-    "content/posts/하늘 위의 하늘로.md",
     "content/posts/승리의 깃발.md",
     "content/posts/허무한 인생에 베푸시는 영원한 사랑.md",
-    "content/posts/순수함을 잃어버린 그대에게.md",
     "content/posts/선교의 깃발.md",
-    "content/posts/연약한 자들을 구원하시는 심판자.md",
-    "content/posts/예수님을 따른 사람들 마태.md",
-    "content/posts/욕심에 끌리는 걸음, 막아서시는 하나님.md",
-    "content/posts/예수님을 따른 사람들 다대오 유다.md",
     "static/IMG_2007.jpeg",
     "static/Pasted image 20260204145839.png",
     "static/Pasted image 20260204145556.png",
