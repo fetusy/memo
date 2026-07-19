@@ -27,12 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/거짓된 고발, 불의한 판결.md",
+                "file": "content/posts/얘야, 너는 혼자가 아니란다.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "거짓된 고발, 불의한 판결"
+              "title": "얘야, 너는 혼자가 아니란다"
             }
           }
         ],
@@ -201,6 +202,8 @@
   },
   "active": "f636cb7085fdf821",
   "lastOpenFiles": [
+    "content/posts/거짓된 고발, 불의한 판결.md",
+    "content/posts/얘야, 너는 혼자가 아니란다.md",
     "content/posts/하늘 위의 하늘로.md",
     "content/posts/순수함을 잃어버린 그대에게.md",
     "content/posts/십자가를 짊어진다는 것은.md",
@@ -225,8 +228,6 @@
     "content/posts/sola-scriptura.md",
     "content/posts/soli-deo-gloria.md",
     "content/posts/승리의 깃발.md",
-    "content/posts/허무한 인생에 베푸시는 영원한 사랑.md",
-    "content/posts/선교의 깃발.md",
     "static/IMG_2007.jpeg",
     "static/Pasted image 20260204145839.png",
     "static/Pasted image 20260204145556.png",
