@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/십자가를 짊어진다는 것은.md",
+                "file": "content/posts/얘야, 너는 혼자가 아니란다.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "십자가를 짊어진다는 것은"
+              "title": "얘야, 너는 혼자가 아니란다"
             },
             "group": "04e8c2fec5a77298"
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/posts/십자가를 짊어진다는 것은.md",
+            "file": "content/posts/얘야, 너는 혼자가 아니란다.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -216,9 +216,10 @@
   },
   "active": "873d7b56b2b82a55",
   "lastOpenFiles": [
+    "content/posts/십자가를 짊어진다는 것은.md",
+    "content/posts/얘야, 너는 혼자가 아니란다.md",
     "content/search.md",
     "content/posts/다시 기대할 수 있을까?.md",
-    "content/posts/십자가를 짊어진다는 것은.md",
     "content/posts/머무름,  제자도의 시작 입니다.md",
     "content/posts/갈망이 있어야 해갈됩니다.md",
     "content/posts/하나님, 더 원합니다.md",
@@ -248,7 +249,6 @@
     "/content/posts/soli-deo-gloria.md",
     "/content/posts/sola-scriptura.md",
     "/content/posts/sola-gratia.md",
-    "content/posts/하나님, 어떤 사람을 만나 가정을 이루어야 할까요?.md",
     "content/content",
     "/static/favicon.ico",
     "/static/Pasted image 20260204145839.png",
